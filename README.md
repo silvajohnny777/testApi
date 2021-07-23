@@ -15,7 +15,7 @@ Tippy
 
 ## Live preview available at:
 
-https://silvajohnny777.github.io/images
+https://silvajohnny777.github.io/testApi
 
 ## How to see the app
 
