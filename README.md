@@ -2,7 +2,6 @@
 
 Created in React and some libraries listed bellow:
 
-
 Hooks
 ContextApi
 React router
@@ -13,6 +12,10 @@ i18next
 react-i18next
 axios
 Tippy
+
+## Live preview available at:
+
+https://silvajohnny777.github.io/images
 
 ## How to see the app
 
